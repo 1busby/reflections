@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	The folder beomes the repository. to designate the folder and a place to store the data.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area only includes files added manually.
+	Only files in the staging area can be commited.
+	Prevents accidental commits. Every commit is deliberate.
+	Easier to keep track of files to be commited.
