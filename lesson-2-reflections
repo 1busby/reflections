@@ -28,3 +28,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Combines all changes since each branch was made.
 	To depict the cumulative change from each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Saves more time than manually merging code. 
+	Occasionally has to be sorted.
